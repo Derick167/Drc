@@ -87,4 +87,12 @@ transition: 0.4s;
   
 }
 
- 
+footer {
+  background-color: grey;
+  padding: 50px;
+  text-align: center;
+  color: white;
+  box-shadow: 0 4px 10px black;
+
+}
+
